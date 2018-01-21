@@ -1,0 +1,8 @@
+{
+    "main": {
+        "seedNode": "https://api.arknode.net"
+    },
+    "devnet": {
+        "seedNode": "http://167.114.29.55:4002"
+    }
+}
